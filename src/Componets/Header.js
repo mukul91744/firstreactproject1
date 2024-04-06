@@ -6,7 +6,7 @@ const Header = (props) => {
       <header>
         <div className='container'>
         <div className='wrapper'>
-        <div className='logo'>IHB Technology</div>
+        <div className='logo'>LOGO</div>
         <ul>
           <li><Link to="/home">Home</Link></li>
           <li><Link to="/about">About</Link></li>
